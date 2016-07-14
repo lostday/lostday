@@ -33,7 +33,8 @@ public class Bath {
     if (s4 == null) {
       s4 = "joy";
     }
-    return "s1=" + s1 + "\n" + "s2=" + s2 + "\n" + "s3=" + s3 + "\n" + "s4=" + s4 + "\n" + "i=" + i + "\n" + "castille=" + castille;
+    return "s1=" + s1 + "\n" + "s2=" + s2 + "\n" + "s3=" + s3 + "\n" + "s4="
+            + s4 + "\n" + "i=" + i + "\n" + "castille=" + castille;
   }
 
   public static void main(String[] args) {
