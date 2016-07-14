@@ -28,7 +28,6 @@ public class Bath {
     toy = 3.14f;
     castille = new Soap();
   }
-
   public String toString() {
     if (s4 == null) {
       s4 = "joy";
