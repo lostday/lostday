@@ -23,7 +23,7 @@ class Circle extends Shape {
     super.dispose();
   }
 }
-  class Triangle extends Shape {
+  class Triangle extends Shape{
     Triangle(int i) {
       super(i);
       System.out.println("Drawing Triangle");
